@@ -16,6 +16,7 @@ friends.insert(0, 'machael')
 friends.insert(2, 'jodan')
 friends.insert(5, 'jean')
 print(friends)
+print("I will invite " + str(len(friends)) + "people!")
 
 print("I am so sorry that my table is not able to site all of 6 people!")
 people = friends.pop()

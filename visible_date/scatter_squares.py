@@ -14,5 +14,5 @@ plt.tick_params(axis='both', which='major', labelsize=14)
 
 # 设置每个坐标轴的取值范围
 plt.axis([0, 1100, 0, 1100000])
-# plt.show()
-plt.savefig('squares_plot.png')
+plt.show()
+#plt.savefig('squares_plot.png')
